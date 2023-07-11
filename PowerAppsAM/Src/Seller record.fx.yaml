@@ -9,8 +9,9 @@
         ZIndex: =1
 
     TextInput1 As text:
-        Default: ="Entrada de texto"
+        Default: =""
         Height: =70
+        HintText: ="Name"
         Size: =21
         Width: =560
         X: =60
@@ -18,8 +19,9 @@
         ZIndex: =2
 
     TextInput2 As text:
-        Default: ="Entrada de texto"
+        Default: =""
         Height: =70
+        HintText: ="Password"
         Size: =21
         Width: =560
         X: =60
@@ -27,8 +29,9 @@
         ZIndex: =3
 
     TextInput5 As text:
-        Default: ="Entrada de texto"
+        Default: =""
         Height: =70
+        HintText: ="User"
         Size: =21
         Width: =560
         X: =60
@@ -36,8 +39,9 @@
         ZIndex: =4
 
     TextInput6 As text:
-        Default: ="Entrada de texto"
+        Default: =""
         Height: =70
+        HintText: ="Mail"
         Size: =21
         Width: =560
         X: =60
@@ -45,8 +49,9 @@
         ZIndex: =5
 
     TextInput7 As text:
-        Default: ="Entrada de texto"
+        Default: =""
         Height: =70
+        HintText: ="Business Name"
         Size: =21
         Width: =560
         X: =60
@@ -54,8 +59,9 @@
         ZIndex: =6
 
     TextInput8 As text:
-        Default: ="Entrada de texto"
+        Default: =""
         Height: =70
+        HintText: ="Last Name"
         Size: =21
         Width: =560
         X: =60
