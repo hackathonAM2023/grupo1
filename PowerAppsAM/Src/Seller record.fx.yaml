@@ -4,8 +4,8 @@
     Image8 As image:
         Height: =320
         Width: =320
-        X: =180
-        Y: =106
+        X: =170
+        Y: =39
         ZIndex: =1
 
     TextInput1 As text:
@@ -23,7 +23,7 @@
         Size: =21
         Width: =560
         X: =60
-        Y: =996
+        Y: =942
         ZIndex: =3
 
     TextInput5 As text:
@@ -32,7 +32,7 @@
         Size: =21
         Width: =560
         X: =60
-        Y: =790
+        Y: =745
         ZIndex: =4
 
     TextInput6 As text:
@@ -41,7 +41,7 @@
         Size: =21
         Width: =560
         X: =60
-        Y: =893
+        Y: =844
         ZIndex: =5
 
     TextInput7 As text:
@@ -50,7 +50,7 @@
         Size: =21
         Width: =560
         X: =60
-        Y: =688
+        Y: =649
         ZIndex: =6
 
     TextInput8 As text:
@@ -59,6 +59,26 @@
         Size: =21
         Width: =560
         X: =60
-        Y: =589
+        Y: =554
         ZIndex: =7
+
+    Label12 As label:
+        Height: =70
+        Size: =21
+        Text: ="¡ Bienvenido Futuro Vendedor !"
+        Width: =422
+        X: =129
+        Y: =359
+        ZIndex: =8
+
+    Button3 As button:
+        Color: =RGBA(0, 134, 208, 1)
+        Fill: =RGBA(0, 0, 0, 0)
+        Height: =70
+        Size: =24
+        Text: ="Registrate"
+        Width: =300
+        X: =180
+        Y: =1035
+        ZIndex: =9
 
