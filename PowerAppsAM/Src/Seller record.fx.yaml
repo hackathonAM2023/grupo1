@@ -1,2 +1,64 @@
 "'Seller record' As screen":
+    Fill: =RGBA(250, 250, 160, 1)
+
+    Image8 As image:
+        Height: =320
+        Width: =320
+        X: =180
+        Y: =106
+        ZIndex: =1
+
+    TextInput1 As text:
+        Default: ="Entrada de texto"
+        Height: =70
+        Size: =21
+        Width: =560
+        X: =60
+        Y: =452
+        ZIndex: =2
+
+    TextInput2 As text:
+        Default: ="Entrada de texto"
+        Height: =70
+        Size: =21
+        Width: =560
+        X: =60
+        Y: =996
+        ZIndex: =3
+
+    TextInput5 As text:
+        Default: ="Entrada de texto"
+        Height: =70
+        Size: =21
+        Width: =560
+        X: =60
+        Y: =790
+        ZIndex: =4
+
+    TextInput6 As text:
+        Default: ="Entrada de texto"
+        Height: =70
+        Size: =21
+        Width: =560
+        X: =60
+        Y: =893
+        ZIndex: =5
+
+    TextInput7 As text:
+        Default: ="Entrada de texto"
+        Height: =70
+        Size: =21
+        Width: =560
+        X: =60
+        Y: =688
+        ZIndex: =6
+
+    TextInput8 As text:
+        Default: ="Entrada de texto"
+        Height: =70
+        Size: =21
+        Width: =560
+        X: =60
+        Y: =589
+        ZIndex: =7
 
