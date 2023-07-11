@@ -68,23 +68,3 @@
         Y: =554
         ZIndex: =7
 
-    Label12 As label:
-        Height: =70
-        Size: =21
-        Text: ="¡ Bienvenido Futuro Vendedor !"
-        Width: =422
-        X: =129
-        Y: =359
-        ZIndex: =8
-
-    Button3 As button:
-        Color: =RGBA(0, 134, 208, 1)
-        Fill: =RGBA(0, 0, 0, 0)
-        Height: =70
-        Size: =24
-        Text: ="Registrate"
-        Width: =300
-        X: =180
-        Y: =1035
-        ZIndex: =9
-
