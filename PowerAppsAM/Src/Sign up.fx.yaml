@@ -4,8 +4,8 @@
     Image7 As image:
         Height: =320
         Width: =320
-        X: =170
-        Y: =148
+        X: =169
+        Y: =168
         ZIndex: =1
 
     Button1 As button:
@@ -15,6 +15,16 @@
         Text: ="Registrate como vendedor"
         Width: =521
         X: =69
-        Y: =660
+        Y: =680
         ZIndex: =2
+
+    Button2 As button:
+        Fill: =RGBA(187, 221, 140, 1)
+        Height: =77
+        Size: =24
+        Text: ="Registrate como comprador"
+        Width: =521
+        X: =69
+        Y: =803
+        ZIndex: =3
 
