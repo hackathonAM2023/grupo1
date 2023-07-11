@@ -1,3 +1,73 @@
 "'Buyer record' As screen":
     Fill: =RGBA(255, 255, 140, 1)
 
+    Image9 As image:
+        Height: =320
+        Width: =320
+        X: =160
+        Y: =40
+        ZIndex: =1
+
+    Label12 As label:
+        Height: =89
+        Size: =30
+        Text: ="¡Bienvenido querido comprador!"
+        Width: =620
+        X: =4
+        Y: =374
+        ZIndex: =2
+
+    TextInput9 As text:
+        Default: ="Entrada de texto"
+        Height: =70
+        Size: =21
+        Width: =560
+        X: =34
+        Y: =909
+        ZIndex: =3
+
+    TextInput10 As text:
+        Default: ="Entrada de texto"
+        Height: =70
+        Size: =21
+        Width: =560
+        X: =34
+        Y: =809
+        ZIndex: =4
+
+    TextInput11 As text:
+        Default: ="Entrada de texto"
+        Height: =70
+        Size: =21
+        Width: =560
+        X: =34
+        Y: =709
+        ZIndex: =5
+
+    TextInput12 As text:
+        Default: ="Entrada de texto"
+        Height: =70
+        Size: =21
+        Width: =560
+        X: =34
+        Y: =609
+        ZIndex: =6
+
+    TextInput13 As text:
+        Default: ="Entrada de texto"
+        Height: =70
+        Size: =21
+        Width: =560
+        X: =34
+        Y: =505
+        ZIndex: =7
+
+    Button3 As button:
+        Height: =70
+        Size: =24
+        Text: ="Registrate"
+        Width: =280
+        X: =174
+        Y: =1026
+        ZIndex: =8
+
