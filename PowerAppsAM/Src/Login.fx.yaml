@@ -1,0 +1,87 @@
+Login As screen:
+    Fill: =RGBA(255, 255, 140, 0.65)
+
+    Image6 As image:
+        Height: =320
+        Width: =320
+        X: =150
+        Y: =49
+        ZIndex: =1
+
+    Label5 As label:
+        Height: =88
+        Size: =40
+        Text: ="Login"
+        Width: =152
+        X: =234
+        Y: =387
+        ZIndex: =2
+
+    TextInput3 As text:
+        BorderColor: =RGBA(127, 178, 57, 1)
+        Default: =""
+        Height: =70
+        HintText: ="Usrname"
+        Size: =21
+        Width: =560
+        X: =30
+        Y: =587
+        ZIndex: =3
+
+    Label6 As label:
+        Height: =70
+        Size: =30
+        Text: ="Name"
+        Width: =182
+        X: =30
+        Y: =517
+        ZIndex: =4
+
+    Label7 As label:
+        Height: =70
+        Size: =30
+        Text: ="Password"
+        Width: =240
+        X: =30
+        Y: =712
+        ZIndex: =5
+
+    TextInput4 As text:
+        BorderColor: =RGBA(127, 178, 57, 1)
+        Default: =""
+        Height: =70
+        HintText: ="Insert password"
+        Mode: =TextMode.Password
+        Size: =21
+        Width: =560
+        X: =30
+        Y: =782
+        ZIndex: =6
+
+    Label9 As label:
+        Height: =67
+        Size: =25
+        Text: ="You do not have an account?"
+        Width: =490
+        X: =75
+        Y: =932
+        ZIndex: =7
+
+    Label10 As label:
+        Height: =70
+        Size: =21
+        Text: =""
+        Width: =560
+        X: =40
+        Y: =40
+        ZIndex: =8
+
+    Label11 As label:
+        Height: =77
+        Size: =25
+        Text: ="Sign up"
+        Width: =152
+        X: =244
+        Y: =999
+        ZIndex: =9
+

@@ -1,0 +1,92 @@
+Logo As screen:
+
+    Image1 As image:
+        Height: =436
+        Image: =cerebro
+        OnSelect: =
+        Width: =500
+        X: =55
+        Y: =277
+        ZIndex: =1
+
+    Image2 As image:
+        Height: =145
+        Image: ='paca de dinero'
+        Width: =199
+        X: =371
+        Y: =584
+        ZIndex: =2
+
+    Image3 As image:
+        Height: =89
+        Image: =engrnaje
+        Width: =119
+        X: =24
+        Y: =439
+        ZIndex: =3
+
+    Image4 As image:
+        Height: =75
+        Image: =engrnaje
+        Width: =104
+        X: =426
+        Y: =348
+        ZIndex: =4
+
+    Image5 As image:
+        Height: =162
+        Image: ='istockphoto-1150776990-612x612-removebg-preview'
+        Width: =217
+        X: =88
+        Y: =574
+        ZIndex: =5
+
+    Label1 As label:
+        Color: =RGBA(39, 113, 194, 1)
+        Height: =75
+        Size: =50
+        Text: ="B"
+        Width: =58
+        X: =55
+        Y: =778
+        ZIndex: =7
+
+    Label2 As label:
+        Height: =70
+        Size: =40
+        Text: ="usiness"
+        Width: =207
+        X: =98
+        Y: =786
+        ZIndex: =8
+
+    Label3 As label:
+        Color: =RGBA(255, 213, 0, 1)
+        Height: =70
+        Size: =50
+        Text: ="F"
+        Width: =55
+        X: =338
+        Y: =783
+        ZIndex: =9
+
+    Label4 As label:
+        Height: =70
+        Size: =40
+        Text: ="ocused"
+        Width: =197
+        X: =373
+        Y: =786
+        ZIndex: =10
+
+    Label8 As label:
+        Align: =Align.Center
+        Height: =70
+        Size: =21
+        Text: |-
+            ="by: Indepenthinkers"
+        Width: =318
+        X: =168
+        Y: =1056
+        ZIndex: =11
+
