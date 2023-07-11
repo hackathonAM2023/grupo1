@@ -68,3 +68,12 @@
         Y: =554
         ZIndex: =7
 
+    Label13 As label:
+        Height: =47
+        Size: =21
+        Text: ="¡ Bienvenido Futuro Vendedor !"
+        Width: =438
+        X: =121
+        Y: =382
+        ZIndex: =8
+
