@@ -1,11 +1,14 @@
 Login As screen:
+    BackgroundImage: =
     Fill: =RGBA(252, 249, 50, 1)
 
     Image6 As image:
-        Height: =320
-        Width: =320
-        X: =150
-        Y: =49
+        Height: =250
+        Image: =e
+        ImagePosition: =ImagePosition.Center
+        Width: =210
+        X: =212
+        Y: =88
         ZIndex: =1
 
     Label5 As label:
