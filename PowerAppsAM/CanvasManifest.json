@@ -110,11 +110,11 @@
     "DocumentType": "App",
     "EnableInstrumentation": false,
     "FileID": "fd98b6df-b2ff-4195-91ef-188bd19197eb",
-    "Id": "fd98b6df-b2ff-4195-91ef-188bd19197eb",
+    "Id": "adcf7a05-39ae-4a88-a10b-aeacd2d3edf5",
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "{}",
     "ManualOfflineProfileId": "",
-    "Name": "BF",
+    "Name": "BF.msapp",
     "OriginatingVersion": "1.333",
     "ParserErrorCount": 0,
     "ShowStatusBar": false
