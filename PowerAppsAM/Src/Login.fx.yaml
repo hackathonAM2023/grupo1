@@ -7,17 +7,17 @@ Login As screen:
         Image: =e
         ImagePosition: =ImagePosition.Center
         Width: =210
-        X: =212
-        Y: =88
+        X: =140
+        Y: =40
         ZIndex: =1
 
     Label5 As label:
-        Height: =88
-        Size: =40
+        Height: =84
+        Size: =25
         Text: ="Login"
-        Width: =152
-        X: =234
-        Y: =387
+        Width: =114
+        X: =275
+        Y: =377
         ZIndex: =2
 
     TextInput3 As text:
@@ -25,29 +25,29 @@ Login As screen:
         BorderThickness: =5
         Default: =""
         Height: =70
-        HintText: ="Usrname"
+        HintText: ="Email/Username"
         Size: =21
         Width: =560
-        X: =30
-        Y: =587
+        X: =40
+        Y: =553
         ZIndex: =3
 
     Label6 As label:
-        Height: =70
-        Size: =30
-        Text: ="Name"
-        Width: =182
-        X: =30
-        Y: =517
+        Height: =56
+        Size: =25
+        Text: ="Email or username"
+        Width: =337
+        X: =40
+        Y: =497
         ZIndex: =4
 
     Label7 As label:
-        Height: =70
-        Size: =30
+        Height: =56
+        Size: =25
         Text: ="Password"
-        Width: =240
-        X: =30
-        Y: =712
+        Width: =180
+        X: =40
+        Y: =655
         ZIndex: =5
 
     TextInput4 As text:
@@ -59,14 +59,14 @@ Login As screen:
         Mode: =TextMode.Password
         Size: =21
         Width: =560
-        X: =30
-        Y: =782
+        X: =40
+        Y: =711
         ZIndex: =6
 
     Label9 As label:
         Color: =RGBA(127, 178, 57, 1)
         Height: =28
-        Size: =25
+        Size: =22
         Text: ="You do not have an account?"
         Underline: =true
         Width: =475
@@ -92,4 +92,21 @@ Login As screen:
         X: =177
         Y: =1002
         ZIndex: =10
+
+    Button6 As button:
+        Color: =RGBA(0, 0, 0, 1)
+        Fill: =RGBA(0, 0, 0, 0)
+        Height: =70
+        HoverColor: =RGBA(0, 121, 187, 1)
+        HoverFill: =ColorFade(RGBA(0, 0, 0, 0), -20%)
+        OnSelect: =Navigate('Sign up',ScreenTransition.Fade)
+        PressedColor: =RGBA(0, 0, 0, 1)
+        PressedFill: =RGBA(0, 0, 0, 0)
+        Size: =22
+        Text: ="Sign up"
+        Underline: =true
+        Width: =280
+        X: =192
+        Y: =997
+        ZIndex: =11
 

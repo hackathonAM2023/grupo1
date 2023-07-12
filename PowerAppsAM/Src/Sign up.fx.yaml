@@ -10,8 +10,12 @@
         ZIndex: =1
 
     Button1 As button:
-        Fill: =RGBA(187, 221, 140, 1)
+        Fill: =RGBA(127, 178, 57, 1)
         Height: =77
+        HoverColor: =RGBA(237, 237, 237, 1)
+        HoverFill: =RGBA(209, 232, 178, 1)
+        OnSelect: =Navigate('Seller record',ScreenTransition.Fade)
+        PressedColor: =RGBA(127, 178, 57, 1)
         Size: =24
         Text: ="Register as a seller"
         Width: =521
@@ -20,7 +24,7 @@
         ZIndex: =2
 
     Button2 As button:
-        Fill: =RGBA(187, 221, 140, 1)
+        Fill: =RGBA(127, 178, 57, 1)
         Height: =77
         Size: =24
         Text: ="Register as a buyer"
