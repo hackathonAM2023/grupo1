@@ -1,5 +1,5 @@
 "'Sign up' As screen":
-    Fill: =RGBA(250, 250, 160, 1)
+    Fill: =RGBA(252, 249, 50, 1)
 
     Image7 As image:
         Height: =376
