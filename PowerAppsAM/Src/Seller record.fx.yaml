@@ -3,6 +3,7 @@
 
     Image8 As image:
         Height: =320
+        Image: ='FB-removebg-preview 1_2'
         Width: =320
         X: =170
         Y: =39
