@@ -1,10 +1,12 @@
 Login As screen:
+    BackgroundImage: =
     Fill: =RGBA(252, 249, 50, 1)
 
     Image6 As image:
-        Height: =353
-        Image: ='FB-removebg-preview 1_4'
-        Width: =360
+        Height: =250
+        Image: =e
+        ImagePosition: =ImagePosition.Center
+        Width: =210
         X: =140
         Y: =40
         ZIndex: =1
