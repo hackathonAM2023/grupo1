@@ -5,8 +5,8 @@ Logo As screen:
         Image: =cerebro
         OnSelect: =
         Width: =500
-        X: =98
-        Y: =277
+        X: =77
+        Y: =255
         ZIndex: =1
 
     Image2 As image:

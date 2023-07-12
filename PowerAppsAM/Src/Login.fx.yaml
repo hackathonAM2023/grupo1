@@ -1,5 +1,5 @@
 Login As screen:
-    Fill: =RGBA(255, 255, 140, 0.65)
+    Fill: =RGBA(252, 249, 50, 1)
 
     Image6 As image:
         Height: =320
@@ -19,6 +19,7 @@ Login As screen:
 
     TextInput3 As text:
         BorderColor: =RGBA(127, 178, 57, 1)
+        BorderThickness: =5
         Default: =""
         Height: =70
         HintText: ="Usrname"
@@ -47,7 +48,8 @@ Login As screen:
         ZIndex: =5
 
     TextInput4 As text:
-        BorderColor: =RGBA(127, 178, 57, 1)
+        BorderColor: =RGBA(138, 217, 28, 1)
+        BorderThickness: =5
         Default: =""
         Height: =70
         HintText: ="Insert password"
