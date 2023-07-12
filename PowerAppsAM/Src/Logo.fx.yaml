@@ -5,40 +5,41 @@ Logo As screen:
         Image: =cerebro
         OnSelect: =
         Width: =500
-        X: =55
+        X: =98
         Y: =277
         ZIndex: =1
 
     Image2 As image:
         Height: =145
         Image: ='paca de dinero'
-        Width: =199
-        X: =371
-        Y: =584
+        ImagePosition: =ImagePosition.Stretch
+        Width: =184
+        X: =414
+        Y: =546
         ZIndex: =2
 
     Image3 As image:
         Height: =89
         Image: =engrnaje
         Width: =119
-        X: =24
-        Y: =439
+        X: =49
+        Y: =440
         ZIndex: =3
 
     Image4 As image:
         Height: =75
         Image: =engrnaje
         Width: =104
-        X: =426
-        Y: =348
+        X: =466
+        Y: =320
         ZIndex: =4
 
     Image5 As image:
         Height: =162
         Image: ='istockphoto-1150776990-612x612-removebg-preview'
         Width: =217
-        X: =88
-        Y: =574
+        X: =113
+        Y: =576
         ZIndex: =5
 
     Label1 As label:
