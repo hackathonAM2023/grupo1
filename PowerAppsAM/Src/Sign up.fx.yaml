@@ -2,18 +2,18 @@
     Fill: =RGBA(250, 250, 160, 1)
 
     Image7 As image:
-        Height: =320
+        Height: =376
         Image: ='FB-removebg-preview 1'
-        Width: =320
-        X: =169
-        Y: =168
+        Width: =380
+        X: =139
+        Y: =208
         ZIndex: =1
 
     Button1 As button:
         Fill: =RGBA(187, 221, 140, 1)
         Height: =77
         Size: =24
-        Text: ="Registrate como vendedor"
+        Text: ="Register as a seller"
         Width: =521
         X: =69
         Y: =680
@@ -23,7 +23,7 @@
         Fill: =RGBA(187, 221, 140, 1)
         Height: =77
         Size: =24
-        Text: ="Registrate como comprador"
+        Text: ="Register as a buyer"
         Width: =521
         X: =69
         Y: =803
