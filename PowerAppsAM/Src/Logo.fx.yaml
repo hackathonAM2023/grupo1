@@ -3,7 +3,7 @@ Logo As screen:
     Image1 As image:
         Height: =436
         Image: =cerebro
-        OnSelect: =
+        OnSelect: =Navigate(Login,ScreenTransition.Fade)
         Width: =500
         X: =77
         Y: =255
