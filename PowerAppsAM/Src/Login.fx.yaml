@@ -3,6 +3,7 @@ Login As screen:
 
     Image6 As image:
         Height: =320
+        Image: ='FB-removebg-preview 1_4'
         Width: =320
         X: =150
         Y: =49
