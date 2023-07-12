@@ -53,7 +53,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "07/12/2023 13:56:02",
+  "HeaderLastSavedDateTimeUTC": "07/12/2023 14:08:17",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -65,6 +65,7 @@
     "FB-removebg-preview 1": "8e290e7c-e7a5-4a4a-9dae-2f078a52ba1b.png",
     "FB-removebg-preview 1_1": "23b6b2e6-0943-4bd5-ada2-5e46c4db3878.png",
     "FB-removebg-preview 1_2": "ab67dfe1-56d4-43b1-b57e-b39a32ae17d9.png",
+    "FB-removebg-preview 1_3": "0d46c460-2ca2-4c65-a9dd-4d4882a25438.png",
     "FB-removebg-preview-removebg-preview": "0790f041-b6b4-47a1-b05f-4d853fbc3388.png",
     "istockphoto-1150776990-612x612-removebg-preview": "0003.png",
     "paca de dinero": "0004.png"
@@ -77,6 +78,7 @@
     "FB-removebg-preview 1": "https://docserverpwaprodwus.blob.core.windows.net/d84a4238-618e-425c-bf68-c5ae88469e02-1/resource/3ec366d2-490a-478f-adfb-41cacd7374d3.png?sv=2018-03-28&sr=b&sig=%2BPaWPhTKpqhUZRDMo5aXJoCoYIfysdZeIIFW0tFNSus%3D&spr=https&se=2023-07-13T14%3A04%3A02Z&sp=r",
     "FB-removebg-preview 1_1": "https://docserverpwaprodwus.blob.core.windows.net/d84a4238-618e-425c-bf68-c5ae88469e02-1/resource/d385c339-7dfe-4664-a18e-d4e421a72d51.png?sv=2018-03-28&sr=b&sig=pOFK4XMmEV3Cm%2BZCUkDbWU1LEW%2FoKdPRFa9Zd5yBhl4%3D&spr=https&se=2023-07-13T14%3A08%3A48Z&sp=r",
     "FB-removebg-preview 1_2": "https://docserverpwaprodwus.blob.core.windows.net/d84a4238-618e-425c-bf68-c5ae88469e02-1/resource/b950c8eb-d450-4e27-a2f9-42b420d350b2.png?sv=2018-03-28&sr=b&sig=jA3wlSV6zuZ60UQQPauxkk%2FGzNXVxB1D%2FPWtCWLBsWA%3D&spr=https&se=2023-07-13T14%3A10%3A50Z&sp=r",
+    "FB-removebg-preview 1_3": "https://docserverpwaprodwus.blob.core.windows.net/d84a4238-618e-425c-bf68-c5ae88469e02-1/resource/572a4360-f9aa-41ed-b04a-9b9df4c7d60d.png?sv=2018-03-28&sr=b&sig=YkKKMzJA00iRn%2FoZx8SLz5YY1XlJ2NK8617oF9eVPdg%3D&spr=https&se=2023-07-13T14%3A11%3A35Z&sp=r",
     "FB-removebg-preview-removebg-preview": "https://docserverpwaprodwus.blob.core.windows.net/d84a4238-618e-425c-bf68-c5ae88469e02-1/resource/fb8300e8-ef77-4df7-8c68-8d6507bfa955.png?sv=2018-03-28&sr=b&sig=vUdSo67y%2BCyaZquI6YCbKfHRwaRGPteHO%2Bj93sinSfc%3D&spr=https&se=2023-07-13T14%3A10%3A02Z&sp=r",
     "istockphoto-1150776990-612x612-removebg-preview": "https://docserverpwaprodwus.blob.core.windows.net/d84a4238-618e-425c-bf68-c5ae88469e02-1/resource/Assets0Images00003.png?sv=2018-03-28&sr=b&sig=fWN05eLk%2BAD%2B7lp%2FiRLy6RnoThaMvj9LJLE81tqfEbg%3D&spr=https&se=2023-07-13T13%3A56%3A12Z&sp=r",
     "paca de dinero": "https://docserverpwaprodwus.blob.core.windows.net/d84a4238-618e-425c-bf68-c5ae88469e02-1/resource/Assets0Images00004.png?sv=2018-03-28&sr=b&sig=kOG8SFJJJT5FyU33qAp2N%2F3gk3Z1frekbRaOphD9Uz4%3D&spr=https&se=2023-07-13T13%3A56%3A12Z&sp=r"
@@ -203,6 +205,7 @@
     "Image-FB-removebg-preview 1": 7,
     "Image-FB-removebg-preview 1_1": 8,
     "Image-FB-removebg-preview 1_2": 10,
+    "Image-FB-removebg-preview 1_3": 11,
     "Image-FB-removebg-preview-removebg-preview": 9,
     "Image-istockphoto-1150776990-612x612-removebg-preview": 3,
     "Image-paca de dinero": 4,

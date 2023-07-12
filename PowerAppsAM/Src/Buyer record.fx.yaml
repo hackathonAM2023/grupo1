@@ -3,23 +3,28 @@
 
     Image9 As image:
         Height: =320
+        Image: ='FB-removebg-preview 1_3'
         Width: =320
         X: =160
         Y: =40
         ZIndex: =1
 
     Label12 As label:
+        Align: =Align.Center
         Height: =89
         Size: =30
-        Text: ="¡Bienvenido querido comprador!"
+        Text: ="¡Welcome Future Buyer!"
         Width: =620
         X: =4
         Y: =374
         ZIndex: =2
 
     TextInput9 As text:
-        Default: ="Entrada de texto"
+        BorderColor: =RGBA(141, 198, 63, 1)
+        Default: =""
+        Fill: =RGBA(232, 244, 217, 1)
         Height: =70
+        HintText: ="Password"
         Size: =21
         Width: =560
         X: =34
@@ -27,8 +32,11 @@
         ZIndex: =3
 
     TextInput10 As text:
-        Default: ="Entrada de texto"
+        BorderColor: =RGBA(141, 198, 63, 1)
+        Default: =""
+        Fill: =RGBA(232, 244, 217, 1)
         Height: =70
+        HintText: ="Mail"
         Size: =21
         Width: =560
         X: =34
@@ -36,8 +44,11 @@
         ZIndex: =4
 
     TextInput11 As text:
-        Default: ="Entrada de texto"
+        BorderColor: =RGBA(141, 198, 63, 1)
+        Default: =""
+        Fill: =RGBA(232, 244, 217, 1)
         Height: =70
+        HintText: ="Location"
         Size: =21
         Width: =560
         X: =34
@@ -45,8 +56,11 @@
         ZIndex: =5
 
     TextInput12 As text:
-        Default: ="Entrada de texto"
+        BorderColor: =RGBA(141, 198, 63, 1)
+        Default: =""
+        Fill: =RGBA(232, 244, 217, 1)
         Height: =70
+        HintText: ="Last Name"
         Size: =21
         Width: =560
         X: =34
@@ -54,8 +68,11 @@
         ZIndex: =6
 
     TextInput13 As text:
-        Default: ="Entrada de texto"
+        BorderColor: =RGBA(141, 198, 63, 1)
+        Default: =""
+        Fill: =RGBA(232, 244, 217, 1)
         Height: =70
+        HintText: ="Name"
         Size: =21
         Width: =560
         X: =34
@@ -63,9 +80,10 @@
         ZIndex: =7
 
     Button3 As button:
+        Fill: =RGBA(127, 178, 57, 1)
         Height: =70
         Size: =24
-        Text: ="Registrate"
+        Text: ="Sing up"
         Width: =280
         X: =174
         Y: =1026
