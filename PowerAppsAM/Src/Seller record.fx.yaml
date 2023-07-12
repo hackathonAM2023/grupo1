@@ -1,5 +1,5 @@
 "'Seller record' As screen":
-    Fill: =RGBA(255, 213, 0, 0.62)
+    Fill: =RGBA(252, 249, 50, 1)
 
     Image8 As image:
         Height: =320
