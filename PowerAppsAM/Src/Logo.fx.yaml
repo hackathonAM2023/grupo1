@@ -9,24 +9,20 @@ Logo As screen:
         Y: =786
         ZIndex: =10
 
-    Label8 As label:
-        Align: =Align.Center
-        Color: =RGBA(43, 99, 36, 1)
-        Font: =Font.'Lato Black'
-        Height: =70
-        Size: =21
-        Text: |-
-            ="by: Indepenthinkers"
-        Width: =318
-        X: =167
-        Y: =1010
+    Image1 As image:
+        Height: =224
+        Image: ='hey hey_1'
+        Width: =416
+        X: =112
+        Y: =677
         ZIndex: =11
 
-    Image4 As image:
-        Height: =924
-        Image: ='hey hey'
-        Width: =510
-        X: =60
-        Y: =62
+    Image3 As image:
+        Height: =442
+        Image: ='FB-removebg-preview_1'
+        OnSelect: =Navigate(Login,ScreenTransition.Fade)
+        Width: =536
+        X: =63
+        Y: =234
         ZIndex: =12
 

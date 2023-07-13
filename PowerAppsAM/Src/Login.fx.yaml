@@ -1,31 +1,25 @@
 Login As screen:
     BackgroundImage: =
-    Fill: =RGBA(252, 249, 50, 1)
-
-    Image6 As image:
-        Height: =250
-        Image: =e
-        ImagePosition: =ImagePosition.Center
-        Width: =210
-        X: =140
-        Y: =40
-        ZIndex: =1
+    Fill: =RGBA(252, 249, 50, 0.41)
 
     Label5 As label:
         Height: =84
         Size: =25
         Text: ="Login"
         Width: =114
-        X: =275
-        Y: =377
+        X: =260
+        Y: =368
         ZIndex: =2
 
     TextInput3 As text:
-        BorderColor: =RGBA(141, 198, 63, 1)
+        BorderColor: =RGBA(127, 178, 57, 1)
         BorderThickness: =5
         Default: =""
         Height: =70
         HintText: ="Email/Username"
+        HoverBorderColor: =RGBA(127, 178, 57, 1)
+        HoverFill: =RGBA(232, 244, 217, 1)
+        PressedBorderColor: =RGBA(187, 221, 140, 1)
         Size: =21
         Width: =560
         X: =40
@@ -51,11 +45,13 @@ Login As screen:
         ZIndex: =5
 
     TextInput4 As text:
-        BorderColor: =RGBA(138, 217, 28, 1)
+        BorderColor: =RGBA(127, 178, 57, 1)
         BorderThickness: =5
         Default: =""
         Height: =70
         HintText: ="Insert password"
+        HoverBorderColor: =RGBA(127, 178, 57, 1)
+        HoverFill: =RGBA(232, 244, 217, 1)
         Mode: =TextMode.Password
         Size: =21
         Width: =560
@@ -68,10 +64,9 @@ Login As screen:
         Height: =28
         Size: =22
         Text: ="You do not have an account?"
-        Underline: =true
-        Width: =475
-        X: =82
-        Y: =935
+        Width: =419
+        X: =115
+        Y: =1002
         ZIndex: =7
 
     Label10 As label:
@@ -82,16 +77,6 @@ Login As screen:
         X: =40
         Y: =40
         ZIndex: =8
-
-    Button5 As button:
-        Fill: =RGBA(127, 178, 57, 1)
-        Height: =70
-        Size: =24
-        Text: ="Sing Up"
-        Width: =280
-        X: =177
-        Y: =1002
-        ZIndex: =10
 
     Button6 As button:
         Color: =RGBA(0, 0, 0, 1)
@@ -106,7 +91,26 @@ Login As screen:
         Text: ="Sign up"
         Underline: =true
         Width: =280
-        X: =192
-        Y: =997
+        X: =185
+        Y: =1018
         ZIndex: =11
+
+    Image5 As image:
+        Height: =383
+        Image: ='FF-removebg-preview'
+        Width: =486
+        X: =82
+        Y: =28
+        ZIndex: =12
+
+    Button5 As button:
+        Fill: =RGBA(127, 178, 57, 1)
+        Height: =70
+        HoverFill: =ColorFade(RGBA(99, 139, 44, 1), -20%)
+        Size: =24
+        Text: ="Login"
+        Width: =280
+        X: =177
+        Y: =814
+        ZIndex: =13
 
