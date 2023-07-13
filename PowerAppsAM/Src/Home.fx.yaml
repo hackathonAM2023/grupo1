@@ -1,2 +1,42 @@
 Home As screen:
+    Fill: =RGBA(255, 255, 255, 1)
+
+    Rectangle1 As rectangle:
+        Fill: =RGBA(209, 232, 178, 1)
+        Height: =74
+        Width: =640
+        ZIndex: =2
+
+    Label2 As label:
+        Height: =62
+        Size: =21
+        Text: ="Business Focused"
+        Width: =290
+        X: =15
+        Y: =12
+        ZIndex: =3
+
+    Icon8 As icon.OptionsList:
+        Height: =41
+        Icon: =Icon.OptionsList
+        Width: =61
+        X: =564
+        Y: =24
+        ZIndex: =4
+
+    TextInput14 As text:
+        Default: =""
+        Height: =87
+        HintText: ="¿Qué buscas?"
+        Size: =26
+        Width: =459
+        X: =90
+        Y: =177
+        ZIndex: =7
+
+    Icon10 As icon.Lightbulb:
+        Icon: =Icon.Lightbulb
+        X: =455
+        Y: =188
+        ZIndex: =8
 

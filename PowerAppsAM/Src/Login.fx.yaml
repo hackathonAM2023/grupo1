@@ -15,10 +15,11 @@ Login As screen:
         BorderColor: =RGBA(127, 178, 57, 1)
         BorderThickness: =5
         Default: =""
+        Fill: =RGBA(232, 244, 217, 1)
         Height: =70
         HintText: ="Email/Username"
         HoverBorderColor: =RGBA(127, 178, 57, 1)
-        HoverFill: =RGBA(232, 244, 217, 1)
+        HoverFill: =RGBA(209, 232, 178, 1)
         PressedBorderColor: =RGBA(187, 221, 140, 1)
         Size: =21
         Width: =560
@@ -48,10 +49,11 @@ Login As screen:
         BorderColor: =RGBA(127, 178, 57, 1)
         BorderThickness: =5
         Default: =""
+        Fill: =RGBA(232, 244, 217, 1)
         Height: =70
         HintText: ="Insert password"
         HoverBorderColor: =RGBA(127, 178, 57, 1)
-        HoverFill: =RGBA(232, 244, 217, 1)
+        HoverFill: =RGBA(209, 232, 178, 1)
         Mode: =TextMode.Password
         Size: =21
         Width: =560
@@ -113,4 +115,22 @@ Login As screen:
         X: =177
         Y: =814
         ZIndex: =13
+
+    Icon1 As icon.Lock:
+        Color: =RGBA(0, 0, 0, 1)
+        Height: =49
+        Icon: =Icon.Lock
+        Width: =52
+        X: =534
+        Y: =721
+        ZIndex: =14
+
+    Icon4 As icon.Person:
+        Color: =RGBA(0, 0, 0, 1)
+        Height: =59
+        Icon: =Icon.Person
+        Width: =66
+        X: =527
+        Y: =558
+        ZIndex: =15
 

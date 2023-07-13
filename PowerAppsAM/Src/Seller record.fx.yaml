@@ -1,13 +1,5 @@
 "'Seller record' As screen":
-    Fill: =RGBA(252, 249, 50, 1)
-
-    Image8 As image:
-        Height: =320
-        Image: ='FB-removebg-preview 1_2'
-        Width: =320
-        X: =170
-        Y: =39
-        ZIndex: =1
+    Fill: =RGBA(252, 249, 50, 0.52)
 
     TextInput1 As text:
         BorderColor: =RGBA(127, 178, 57, 1)
@@ -15,10 +7,13 @@
         Fill: =RGBA(232, 244, 217, 1)
         Height: =70
         HintText: ="Name"
+        HoverBorderColor: =RGBA(127, 178, 57, 1)
+        HoverFill: =RGBA(209, 232, 178, 1)
+        PressedFill: =RGBA(209, 323, 178, 1)
         Size: =21
         Width: =560
         X: =46
-        Y: =455
+        Y: =464
         ZIndex: =2
 
     TextInput2 As text:
@@ -27,10 +22,13 @@
         Fill: =RGBA(232, 244, 217, 1)
         Height: =70
         HintText: ="Password"
+        HoverBorderColor: =RGBA(127, 178, 57, 1)
+        HoverFill: =RGBA(209, 232, 178, 1)
+        PressedFill: =RGBA(209, 323, 178, 1)
         Size: =21
         Width: =560
         X: =46
-        Y: =943
+        Y: =908
         ZIndex: =3
 
     TextInput5 As text:
@@ -39,10 +37,13 @@
         Fill: =RGBA(232, 244, 217, 1)
         Height: =70
         HintText: ="User"
+        HoverBorderColor: =RGBA(127, 178, 57, 1)
+        HoverFill: =RGBA(209, 232, 178, 1)
+        PressedFill: =RGBA(209, 323, 178, 1)
         Size: =21
         Width: =560
         X: =46
-        Y: =746
+        Y: =728
         ZIndex: =4
 
     TextInput6 As text:
@@ -51,10 +52,13 @@
         Fill: =RGBA(232, 244, 217, 1)
         Height: =70
         HintText: ="Mail"
+        HoverBorderColor: =RGBA(127, 178, 57, 1)
+        HoverFill: =RGBA(209, 232, 178, 1)
+        PressedFill: =RGBA(209, 323, 178, 1)
         Size: =21
         Width: =560
-        X: =50
-        Y: =844
+        X: =46
+        Y: =819
         ZIndex: =5
 
     TextInput7 As text:
@@ -63,10 +67,13 @@
         Fill: =RGBA(232, 244, 217, 1)
         Height: =70
         HintText: ="Business Name"
+        HoverBorderColor: =RGBA(127, 178, 57, 1)
+        HoverFill: =RGBA(209, 232, 178, 1)
+        PressedFill: =RGBA(209, 323, 178, 1)
         Size: =21
         Width: =560
         X: =46
-        Y: =649
+        Y: =640
         ZIndex: =6
 
     TextInput8 As text:
@@ -75,19 +82,22 @@
         Fill: =RGBA(232, 244, 217, 1)
         Height: =70
         HintText: ="Last Name"
+        HoverBorderColor: =RGBA(127, 178, 57, 1)
+        HoverFill: =RGBA(209, 232, 178, 1)
+        PressedFill: =RGBA(209, 323, 178, 1)
         Size: =21
         Width: =560
         X: =46
-        Y: =552
+        Y: =553
         ZIndex: =7
 
     Label13 As label:
         Height: =73
-        Size: =30
+        Size: =27
         Text: ="¡Welcome Future Seller!"
-        Width: =465
-        X: =97
-        Y: =370
+        Width: =420
+        X: =120
+        Y: =358
         ZIndex: =8
 
     Button4 As button:
@@ -98,6 +108,20 @@
         Text: ="Sign up"
         Width: =280
         X: =186
-        Y: =1042
+        Y: =1027
         ZIndex: =9
+
+    Image7 As image:
+        Height: =320
+        Image: ='FF-removebg-preview_2'
+        Width: =386
+        X: =137
+        Y: =38
+        ZIndex: =10
+
+    Icon6 As icon.BackArrow:
+        Icon: =Icon.BackArrow
+        X: =18
+        Y: =12
+        ZIndex: =11
 

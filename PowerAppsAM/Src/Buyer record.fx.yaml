@@ -1,22 +1,14 @@
 "'Buyer record' As screen":
-    Fill: =RGBA(252, 249, 50, 1)
-
-    Image9 As image:
-        Height: =320
-        Image: ='FB-removebg-preview 1_3'
-        Width: =320
-        X: =160
-        Y: =40
-        ZIndex: =1
+    Fill: =RGBA(252, 249, 50, 0.53)
 
     Label12 As label:
         Align: =Align.Center
         Height: =89
-        Size: =30
+        Size: =27
         Text: ="¡Welcome Future Buyer!"
-        Width: =620
-        X: =4
-        Y: =374
+        Width: =480
+        X: =74
+        Y: =391
         ZIndex: =2
 
     TextInput9 As text:
@@ -28,7 +20,7 @@
         Size: =21
         Width: =560
         X: =34
-        Y: =909
+        Y: =889
         ZIndex: =3
 
     TextInput10 As text:
@@ -40,7 +32,7 @@
         Size: =21
         Width: =560
         X: =34
-        Y: =809
+        Y: =798
         ZIndex: =4
 
     TextInput11 As text:
@@ -52,7 +44,7 @@
         Size: =21
         Width: =560
         X: =34
-        Y: =709
+        Y: =703
         ZIndex: =5
 
     TextInput12 As text:
@@ -64,7 +56,7 @@
         Size: =21
         Width: =560
         X: =34
-        Y: =609
+        Y: =613
         ZIndex: =6
 
     TextInput13 As text:
@@ -76,7 +68,7 @@
         Size: =21
         Width: =560
         X: =34
-        Y: =505
+        Y: =524
         ZIndex: =7
 
     Button3 As button:
@@ -86,6 +78,14 @@
         Text: ="Sing up"
         Width: =280
         X: =174
-        Y: =1026
+        Y: =1011
         ZIndex: =8
+
+    Image8 As image:
+        Height: =320
+        Image: ='FF-removebg-preview_3'
+        Width: =384
+        X: =122
+        Y: =54
+        ZIndex: =9
 

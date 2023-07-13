@@ -1,35 +1,46 @@
 "'Sign up' As screen":
-    Fill: =RGBA(252, 249, 50, 1)
-
-    Image7 As image:
-        Height: =376
-        Image: ='FB-removebg-preview 1'
-        Width: =380
-        X: =139
-        Y: =208
-        ZIndex: =1
+    Fill: =RGBA(252, 249, 50, 0.52)
 
     Button1 As button:
         Fill: =RGBA(127, 178, 57, 1)
         Height: =77
         HoverColor: =RGBA(237, 237, 237, 1)
-        HoverFill: =RGBA(209, 232, 178, 1)
+        HoverFill: =RGBA(99, 139, 44, 1)
         OnSelect: =Navigate('Seller record',ScreenTransition.Fade)
         PressedColor: =RGBA(127, 178, 57, 1)
         Size: =24
         Text: ="Register as a seller"
         Width: =521
-        X: =69
-        Y: =680
+        X: =68
+        Y: =706
         ZIndex: =2
 
     Button2 As button:
         Fill: =RGBA(127, 178, 57, 1)
         Height: =77
+        HoverFill: =ColorFade(RGBA(99, 139, 44, 1), -20%)
+        OnSelect: =Navigate('Buyer record',ScreenTransition.Fade)
         Size: =24
         Text: ="Register as a buyer"
         Width: =521
-        X: =69
-        Y: =803
+        X: =63
+        Y: =824
         ZIndex: =3
+
+    Image6 As image:
+        Height: =460
+        Image: ='FF-removebg-preview_1'
+        Width: =516
+        X: =68
+        Y: =103
+        ZIndex: =4
+
+    Icon7 As icon.BackArrow:
+        Color: =RGBA(0, 0, 0, 1)
+        Height: =51
+        Icon: =Icon.BackArrow
+        Width: =69
+        X: =16
+        Y: =16
+        ZIndex: =5
 
